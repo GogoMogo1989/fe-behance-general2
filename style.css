@@ -43,7 +43,7 @@ body{
   position:absolute;
   top:60px;
   width:100%;
-  text-shadow: 0px 0px rgb(68, 58, 58);
+  text-shadow: 0.5px 0px rgb(68, 58, 58);
   border-bottom: 3px solid rgb(170, 168, 168);
 }
 
